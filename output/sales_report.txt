@@ -1,0 +1,5 @@
+SALES ANALYTICS REPORT
+Generated: 2026-01-14 18:45:32.499014
+Records: 70
+
+Total Revenue: ₹3,527,808.00
